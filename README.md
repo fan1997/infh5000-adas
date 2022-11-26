@@ -24,7 +24,6 @@ drowsiness detection
 -  dlib (pip install dlib)
    - To detect and localize facial landmarks we’ll need the dlib library
 ## step 2:
-# step 2
 - Download the dlib’s pre-trained facial landmark detector. from hear "http://jmp.sh/4bIYiPU " place it place it same floder where alarm.wav contains 
 - Note: without dlib’s pre-trained facial landmark detector file you can't run the code 
 
